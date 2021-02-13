@@ -4,7 +4,7 @@
 ----
 I'm a data operations analyst and I love yoga, longboarding and crocheting.
 
-![C:\Users\prisc\Pictures\Pictures\Yoga.jpg]
+![Yoga](C:\Users\prisc\Pictures\Pictures\Yoga.jpg)
 
 - When I grow up, I want to be a quant trader.
 
