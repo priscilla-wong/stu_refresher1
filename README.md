@@ -12,7 +12,7 @@ I'm a data operations analyst and I love yoga, longboarding and crocheting.
 
 - Just adding more stuff.
 
- * Code [C:\Users\prisc\stu_refresher1\code]
- * Data [C:\Users\prisc\stu_refresher1\data]
- * Images [C:\Users\prisc\stu_refresher1\images]
- * References [C:\Users\prisc\stu_refresher1\references]
+ * [Code] (C:\Users\prisc\stu_refresher1\code)
+ * [Data] (C:\Users\prisc\stu_refresher1\data)
+ * [Images] (C:\Users\prisc\stu_refresher1\images)
+ * [References] (C:\Users\prisc\stu_refresher1\references)
